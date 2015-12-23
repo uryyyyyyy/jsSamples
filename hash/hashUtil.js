@@ -1,6 +1,6 @@
 
 function hashUtil (logger) {
-	var crypto = require('crypto')
+	var crypto = require('crypto');
 
 	return{
 		makeHash : function(str){

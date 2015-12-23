@@ -8,4 +8,5 @@ exports.start = function() {
         response.end();
     });
     server.listen(8080);
+    console.log("http://localhost:8080")
 };
