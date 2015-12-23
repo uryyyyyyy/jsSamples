@@ -1,0 +1,19 @@
+{
+  "name": "closureSample",
+  "version": "0.0.0",
+  "authors": [
+    "uryyyyyyy <koki305@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "closure-compiler": "http://dl.google.com/closure-compiler/compiler-latest.zip",
+    "google-closure-library": "*"
+  }
+}
